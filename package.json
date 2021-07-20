@@ -1,0 +1,27 @@
+{
+  "name": "typemime",
+  "version": "1.0.0",
+  "description": "查询文件的mime类型",
+  "main": "mime.js",
+  "bin": {
+    "mime": "mime.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web1511/typemime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web1511/typemime/issues"
+  },
+  "homepage": "https://github.com/web1511/typemime#readme",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "mime": "^2.5.2"
+  }
+}
