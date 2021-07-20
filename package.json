@@ -2,9 +2,9 @@
   "name": "typemime",
   "version": "1.0.0",
   "description": "查询文件的mime类型",
-  "main": "mime.js",
+  "main": "index.js",
   "bin": {
-    "mime": "mime.js"
+    "mime": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
