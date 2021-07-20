@@ -5,7 +5,7 @@ const { program } = require("commander");
 program.version(require("./package.json").version);
 
 program
-  .command("file <name>")
+  .command("ext <name>")
   .description("输入文件后缀名")
   .action(require("./mime"));
 
